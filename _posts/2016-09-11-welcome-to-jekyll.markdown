@@ -21,8 +21,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 Test math $$ a^2_i=\sum_{i=0}^{n=100}a_{i} $$
 
+Another test
+
 $$
+
 a^2_i=\sum_{i=0}^{n=100}a_{i}
+
 $$
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
