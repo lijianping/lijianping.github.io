@@ -19,7 +19,7 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-Test math $$a^2_i=\sum_{i=0}^{n=100}a_{i}$$
+Test math $$ a^2_i=\sum_{i=0}^{n=100}a_{i} $$
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
